@@ -1,5 +1,4 @@
-# Mathematics-for-Machine-Learning-Linear-Algebra
-This is the course provided by Coursera (Imperial College London)
+# Mathematics for Machine Learning-Linear Algebra (Imperial College London)
 Programming Assignment 1:  (code inside specialmatrices.py)
       Identifying special matrices
 Instructions
